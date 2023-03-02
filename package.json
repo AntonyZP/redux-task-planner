@@ -1,8 +1,8 @@
 {
-  "name": "task-planner",
+  "name": "redux-task-planner",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AntonyZP.github.io/task-planner/",
+  "homepage": "https://AntonyZP.github.io/redux-task-planner/",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
